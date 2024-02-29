@@ -25,11 +25,6 @@ h1 {
     font-weight: bolder;
     letter-spacing: 5px;
     text-transform: uppercase;
-    background-image: url(wepik-export-20230907140401cMdO.png);
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
 }
 
 h2 {
@@ -38,11 +33,6 @@ h2 {
     font-weight: normal;
     letter-spacing: 2px;
     text-transform: uppercase;
-    background-image: url(wepik-export-20230907140401cMdO.png);
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
 }
 ul {
     display: flex;
@@ -61,11 +51,6 @@ li span {
     display: block;
     font-size: 6rem;
     color: darkgreen;
-    background-image: url(pexels-johannes-plenio-1103970.jpg);
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
 }
 
 li.separator {
@@ -73,11 +58,6 @@ li.separator {
     font-size: 6rem;
     line-height: 1;
     color: darkgreen;
-    background-image: url(pexels-johannes-plenio-1103970.jpg);
-    background-size: cover;
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
 }
 
 li:first-of-type {
